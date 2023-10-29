@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = true
+  world = 0e0f3942-fe5e-4197-82de-4d4290d85559.essential-sps:25565
+}
+
