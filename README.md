@@ -42,7 +42,6 @@ If you want, you could also write a batch script that runs the jar file in a sim
 ```md
 📦
 ┣ 📂config //Various configs for all sorts of mods
-┃ ┣ 📂ftbquests //Configs for quests
 ┃ ┣ 📂assets
 ┃ ┃ ┣ 📂\* mods // Renaming items for mods
 ┃ ┃ ┃ ┗ 📂textures // Textures for custom blocks
@@ -53,6 +52,7 @@ If you want, you could also write a batch script that runs the jar file in a sim
 ┣ 📂mods // Mods
 ┣ 📂resourcepacks // Textures, includes some mods
 ┣ 📂schematics // Schematic files for The Create Mod
+┣ 📂screenshots // The screenshots you can accsess directly
 ┣ 📂shaderpacks // High quality shaders built-in
 ┗ 📜README.md // This file! Feel free to contribute
 and fix any errors that you see.
