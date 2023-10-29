@@ -37,6 +37,9 @@ This will host a copy of pack.toml that is updated every time it is queried, mea
 
 If you want, you could also write a batch script that runs the jar file in a similar way to how it is run at the startup of the instance, that you could run to reload the modpack without restarting the game.
 
+## Need A Server?
+![Hosting](https://github.com/yunus-cakir/Everside/assets/83448525/b82f35af-6fac-4d1c-8b9c-7182db037534)
+
 ## Files you may want to edit
 
 ```md
