@@ -5,6 +5,8 @@
 
 Dev Github for the modpack Everside
 
+![Logo 2](https://github.com/yunus-cakir/Everside/assets/83448525/ad6cc211-f8f3-495a-a0b6-e0c273d06281)
+
 Suggestions and Bugs should go in [Issues](https://www.curseforge.com/minecraft/modpacks/everside), be as detailed as possible so things can be easy to add or fix!
 
 Does not include mods, or most configs.
